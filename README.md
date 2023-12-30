@@ -1,5 +1,5 @@
 # 💫 About Me:
-##Welcome to my Github profile!<br>
+Welcome to my Github profile!<br>
 <br>My name is Leo Merelo and I am a developer of native Android and iOS applications.<br><br>I am currently looking for and capturing an iOS Developer position... My short-term goal is to become a functional and/or technical leader since I am a profile that evolves quite quickly, with ease in human treatment and more focused in a large-scale design vision, trying to gain mastery in each of the subtleties in application development.<br><br>Having said that, I know that I still have a lot to learn and improve, I'm going to do my best to achieve it!<br><br><br>Thanks for reading me,<br><br>Leo
 
 
